@@ -1,0 +1,3192 @@
+[
+  {
+    "image_id": 2717725,
+    "file_name": "demo_images/6cae33b0-6d73-49c3-b2e0-e7d2ce7a61ff.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Black-headed Grosbeak",
+        "scientific_name": "Pheucticus melanocephalus"
+      },
+      {
+        "common_name": "Hepatic Tanager",
+        "scientific_name": "Piranga flava"
+      },
+      {
+        "common_name": "Blue Bunting",
+        "scientific_name": "Cyanocompsa parellina"
+      },
+      {
+        "common_name": "Northern Cardinal",
+        "scientific_name": "Cardinalis cardinalis"
+      },
+      {
+        "common_name": "Flame-colored Tanager",
+        "scientific_name": "Piranga bidentata"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Cardinalis cardinalis"
+  },
+  {
+    "image_id": 2732501,
+    "file_name": "demo_images/108c6618-c5ba-4a3e-af49-e91e3e157ab3.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Lilac-breasted Roller",
+        "scientific_name": "Coracias caudatus"
+      },
+      {
+        "common_name": "Cassin's Sparrow",
+        "scientific_name": "Peucaea cassinii"
+      },
+      {
+        "common_name": "European Roller",
+        "scientific_name": "Coracias garrulus"
+      },
+      {
+        "common_name": "Dollarbird",
+        "scientific_name": "Eurystomus orientalis"
+      },
+      {
+        "common_name": "Indian Roller",
+        "scientific_name": "Coracias benghalensis"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Coracias benghalensis"
+  },
+  {
+    "image_id": 2780663,
+    "file_name": "demo_images/b3ef803f-dea6-45b6-9feb-86a75dfcd015.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Eurasian Jay",
+        "scientific_name": "Garrulus glandarius"
+      },
+      {
+        "common_name": "Black-billed Magpie",
+        "scientific_name": "Pica hudsonia"
+      },
+      {
+        "common_name": "Green Jay",
+        "scientific_name": "Cyanocorax yncas"
+      },
+      {
+        "common_name": "Northwestern Crow",
+        "scientific_name": "Corvus caurinus"
+      },
+      {
+        "common_name": "Gray Treepie",
+        "scientific_name": "Dendrocitta formosae"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Pica hudsonia"
+  },
+  {
+    "image_id": 2761856,
+    "file_name": "demo_images/ad155c84-194f-47aa-8a2c-5a7e290cd6f6.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Woodhouse's Scrub-Jay",
+        "scientific_name": "Aphelocoma woodhouseii"
+      },
+      {
+        "common_name": "Blue Jay",
+        "scientific_name": "Cyanocitta cristata"
+      },
+      {
+        "common_name": "Eurasian Jackdaw",
+        "scientific_name": "Corvus monedula"
+      },
+      {
+        "common_name": "Plush-crested Jay",
+        "scientific_name": "Cyanocorax chrysops"
+      },
+      {
+        "common_name": "Gray Jay",
+        "scientific_name": "Perisoreus canadensis"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Perisoreus canadensis"
+  },
+  {
+    "image_id": 2786654,
+    "file_name": "demo_images/10afbac9-4e61-4e8e-8ebd-4ae0b5f306d3.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Crested Guan",
+        "scientific_name": "Penelope purpurascens"
+      },
+      {
+        "common_name": "Plain Chachalaca",
+        "scientific_name": "Ortalis vetula"
+      },
+      {
+        "common_name": "Dusky-legged Guan",
+        "scientific_name": "Penelope obscura"
+      },
+      {
+        "common_name": "Great Curassow",
+        "scientific_name": "Crax rubra"
+      },
+      {
+        "common_name": "West Mexican Chachalaca",
+        "scientific_name": "Ortalis poliocephala"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Crax rubra"
+  },
+  {
+    "image_id": 2783886,
+    "file_name": "demo_images/775fa27f-eb53-4454-be57-74c386760c73.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Eastern Kingbird",
+        "scientific_name": "Tyrannus tyrannus"
+      },
+      {
+        "common_name": "Scissor-tailed Flycatcher",
+        "scientific_name": "Tyrannus forficatus"
+      },
+      {
+        "common_name": "Couch's Kingbird",
+        "scientific_name": "Tyrannus couchii"
+      },
+      {
+        "common_name": "Tropical Kingbird",
+        "scientific_name": "Tyrannus melancholicus"
+      },
+      {
+        "common_name": "Fork-tailed Flycatcher",
+        "scientific_name": "Tyrannus savana"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Tyrannus savana"
+  },
+  {
+    "image_id": 2726269,
+    "file_name": "demo_images/94e42e43-2e2c-4eef-a368-19ccfb088736.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Hamerkop",
+        "scientific_name": "Scopus umbretta"
+      },
+      {
+        "common_name": "Eastern Black-tailed Rattlesnake",
+        "scientific_name": "Crotalus ornatus"
+      },
+      {
+        "common_name": "Eastern Pine Elfin",
+        "scientific_name": "Callophrys niphon"
+      },
+      {
+        "common_name": "Western Wood-Pewee",
+        "scientific_name": "Contopus sordidulus"
+      },
+      {
+        "common_name": "Berylline Hummingbird",
+        "scientific_name": "Amazilia beryllina"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Scopus umbretta"
+  },
+  {
+    "image_id": 2772204,
+    "file_name": "demo_images/8ca68df3-3580-4b86-895f-c777b5e82056.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Collared Sunbird",
+        "scientific_name": "Hedydipna collaris"
+      },
+      {
+        "common_name": "Greater Double-collared Sunbird",
+        "scientific_name": "Cinnyris afer"
+      },
+      {
+        "common_name": "Brown-throated Sunbird",
+        "scientific_name": "Anthreptes malacensis"
+      },
+      {
+        "common_name": "Crimson Sunbird",
+        "scientific_name": "Aethopyga siparaja"
+      },
+      {
+        "common_name": "Orange-breasted Sunbird",
+        "scientific_name": "Anthobaphes violacea"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Anthreptes malacensis"
+  },
+  {
+    "image_id": 2688130,
+    "file_name": "demo_images/9451a784-e796-4919-a05e-d3e95c7099ea.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Malachite Sunbird",
+        "scientific_name": "Nectarinia famosa"
+      },
+      {
+        "common_name": "Purple-rumped Sunbird",
+        "scientific_name": "Leptocoma zeylonica"
+      },
+      {
+        "common_name": "Olive-backed Sunbird",
+        "scientific_name": "Cinnyris jugularis"
+      },
+      {
+        "common_name": "Orange-breasted Sunbird",
+        "scientific_name": "Anthobaphes violacea"
+      },
+      {
+        "common_name": "Collared Sunbird",
+        "scientific_name": "Hedydipna collaris"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Hedydipna collaris"
+  },
+  {
+    "image_id": 2701860,
+    "file_name": "demo_images/4fcea726-2950-4e59-9508-023dc9303c39.jpg",
+    "supercategory": "Birds",
+    "options": [
+      {
+        "common_name": "Baltimore Oriole",
+        "scientific_name": "Icterus galbula"
+      },
+      {
+        "common_name": "Bobolink",
+        "scientific_name": "Dolichonyx oryzivorus"
+      },
+      {
+        "common_name": "Spot-breasted Oriole",
+        "scientific_name": "Icterus pectoralis"
+      },
+      {
+        "common_name": "Streak-backed Oriole",
+        "scientific_name": "Icterus pustulatus"
+      },
+      {
+        "common_name": "Black-backed Oriole",
+        "scientific_name": "Icterus abeillei"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Dolichonyx oryzivorus"
+  },
+  {
+    "image_id": 2724259,
+    "file_name": "demo_images/6d651b76-1c07-4048-a4f0-872c599b469a.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Stubble Rosegill",
+        "scientific_name": "Volvopluteus gloiocephalus"
+      },
+      {
+        "common_name": "deer mushroom",
+        "scientific_name": "Pluteus cervinus"
+      },
+      {
+        "common_name": "Silky Rosegill",
+        "scientific_name": "Volvariella bombycina"
+      },
+      {
+        "common_name": "Gray Hawk",
+        "scientific_name": "Buteo plagiatus"
+      },
+      {
+        "common_name": "winterfat",
+        "scientific_name": "Krascheninnikovia lanata"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Volvariella bombycina"
+  },
+  {
+    "image_id": 2715292,
+    "file_name": "demo_images/a9c31437-f37a-4fa7-a15c-a10216620c8d.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Golden Hair-lichen",
+        "scientific_name": "Teloschistes flavicans"
+      },
+      {
+        "common_name": "Hooded Sunburst Lichen",
+        "scientific_name": "Xanthomendoza fallax"
+      },
+      {
+        "common_name": "Maritime Sunburst Lichen",
+        "scientific_name": "Xanthoria parietina"
+      },
+      {
+        "common_name": "Elegant Sunburst Lichen",
+        "scientific_name": "Rusavskia elegans"
+      },
+      {
+        "common_name": "Golden-eye Lichen",
+        "scientific_name": "Teloschistes chrysophthalmus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Teloschistes flavicans"
+  },
+  {
+    "image_id": 2731548,
+    "file_name": "demo_images/e900a000-31e8-4748-bfe2-e93f9cf9fbb7.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "lantern stinkhorn",
+        "scientific_name": "Lysurus mokusin"
+      },
+      {
+        "common_name": "column stinkhorn",
+        "scientific_name": "Clathrus columnatus"
+      },
+      {
+        "common_name": "Ravenel's stinkhorn",
+        "scientific_name": "Phallus ravenelii"
+      },
+      {
+        "common_name": "devil's-fingers",
+        "scientific_name": "Clathrus archeri"
+      },
+      {
+        "common_name": "devil's dipstick",
+        "scientific_name": "Mutinus elegans"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Clathrus archeri"
+  },
+  {
+    "image_id": 2745943,
+    "file_name": "demo_images/bd3df260-e15b-4d29-b184-ff86a7588d11.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "false turkey-tail",
+        "scientific_name": "Stereum hirsutum"
+      },
+      {
+        "common_name": "ceramic parchment",
+        "scientific_name": "Xylobolus frustulatus"
+      },
+      {
+        "common_name": "crowded parchment",
+        "scientific_name": "Stereum complicatum"
+      },
+      {
+        "common_name": "false turkey-tail",
+        "scientific_name": "Stereum ostrea"
+      },
+      {
+        "common_name": "False Turkey-tail",
+        "scientific_name": "Stereum versicolor"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Stereum complicatum"
+  },
+  {
+    "image_id": 2716177,
+    "file_name": "demo_images/c4440a1d-990b-42d2-a2d6-4dc77a2a4bfa.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Tree Lungwort",
+        "scientific_name": "Lobaria pulmonaria"
+      },
+      {
+        "common_name": "Smooth Lungwort",
+        "scientific_name": "Ricasolia quercizans"
+      },
+      {
+        "common_name": "Lincoln's Sparrow",
+        "scientific_name": "Melospiza lincolnii"
+      },
+      {
+        "common_name": "Western Calligrapher",
+        "scientific_name": "Toxomerus occidentalis"
+      },
+      {
+        "common_name": "Lobaria anthraspis",
+        "scientific_name": "Lobaria anthraspis"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Lobaria pulmonaria"
+  },
+  {
+    "image_id": 2710040,
+    "file_name": "demo_images/e4cfdb8b-06fb-447c-a04b-cd2418f7be11.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Black-mandibled Toucan",
+        "scientific_name": "Ramphastos ambiguus"
+      },
+      {
+        "common_name": "Common Gromwell",
+        "scientific_name": "Lithospermum officinale"
+      },
+      {
+        "common_name": "Marsh Jaumea",
+        "scientific_name": "Jaumea carnosa"
+      },
+      {
+        "common_name": "jellied false coral",
+        "scientific_name": "Sebacina schweinitzii"
+      },
+      {
+        "common_name": "Sooty-winged Chalcoela Moth",
+        "scientific_name": "Chalcoela iphitalis"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Sebacina schweinitzii"
+  },
+  {
+    "image_id": 2747288,
+    "file_name": "demo_images/b37b9271-d0a4-4dc5-b7e9-e4faafe75869.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "little nest polypore",
+        "scientific_name": "Trametes conchifer"
+      },
+      {
+        "common_name": "Cinnabar Bracket",
+        "scientific_name": "Trametes sanguinea"
+      },
+      {
+        "common_name": "Hoof Fungus",
+        "scientific_name": "Fomes fomentarius"
+      },
+      {
+        "common_name": "Lumpy Bracket",
+        "scientific_name": "Trametes gibbosa"
+      },
+      {
+        "common_name": "pheasant's back mushroom",
+        "scientific_name": "Cerioporus squamosus"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Fomes fomentarius"
+  },
+  {
+    "image_id": 2763296,
+    "file_name": "demo_images/9fc6c056-2cc9-41a7-9913-b3ad7b3eda5f.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Giant Polypore",
+        "scientific_name": "Meripilus giganteus"
+      },
+      {
+        "common_name": "spreading fescue",
+        "scientific_name": "Lolium pratense"
+      },
+      {
+        "common_name": "hen of the woods",
+        "scientific_name": "Grifola frondosa"
+      },
+      {
+        "common_name": "Eastern False Aloe",
+        "scientific_name": "Manfreda virginica"
+      },
+      {
+        "common_name": "Giant Polypore",
+        "scientific_name": "Meripilus sumstinei"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Meripilus sumstinei"
+  },
+  {
+    "image_id": 2779572,
+    "file_name": "demo_images/8293a0a3-f6f4-49e8-8487-c4bbd4f940fb.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Lilac Bonnet",
+        "scientific_name": "Mycena pura"
+      },
+      {
+        "common_name": "Pixie's Parasol",
+        "scientific_name": "Mycena interrupta"
+      },
+      {
+        "common_name": "orange mycena",
+        "scientific_name": "Mycena leaiana"
+      },
+      {
+        "common_name": "Yellowleg Bonnet",
+        "scientific_name": "Mycena epipterygia"
+      },
+      {
+        "common_name": "Bleeding Fairy Helmet",
+        "scientific_name": "Mycena haematopus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Mycena pura"
+  },
+  {
+    "image_id": 2706437,
+    "file_name": "demo_images/18cae01a-e552-4836-9da2-6301615f0f5e.jpg",
+    "supercategory": "Fungi",
+    "options": [
+      {
+        "common_name": "Pixie's Parasol",
+        "scientific_name": "Mycena interrupta"
+      },
+      {
+        "common_name": "Wrinkled Club",
+        "scientific_name": "Clavulina rugosa"
+      },
+      {
+        "common_name": "White Coral Fungus",
+        "scientific_name": "Clavulina coralloides"
+      },
+      {
+        "common_name": "sweet potato",
+        "scientific_name": "Ipomoea batatas"
+      },
+      {
+        "common_name": "Pohuehue",
+        "scientific_name": "Muehlenbeckia australis"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Clavulina rugosa"
+  },
+  {
+    "image_id": 2692575,
+    "file_name": "demo_images/f00dd2a2-0583-4f55-b5d9-58cc5e6053e9.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Knobbed Whelk",
+        "scientific_name": "Busycon carica"
+      },
+      {
+        "common_name": "Kellet's Whelk",
+        "scientific_name": "Kelletia kelletii"
+      },
+      {
+        "common_name": "Speckled Whelk",
+        "scientific_name": "Cominella adspersa"
+      },
+      {
+        "common_name": "Lightning Whelk",
+        "scientific_name": "Sinistrofulgur sinistrum"
+      },
+      {
+        "common_name": "Mud Whelk",
+        "scientific_name": "Cominella glandiformis"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Cominella glandiformis"
+  },
+  {
+    "image_id": 2690967,
+    "file_name": "demo_images/e75f5b5d-8138-4084-9356-2c89e7fd47b6.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Black-bellied Salamander",
+        "scientific_name": "Desmognathus quadramaculatus"
+      },
+      {
+        "common_name": "Thatch Screwpine",
+        "scientific_name": "Pandanus tectorius"
+      },
+      {
+        "common_name": "Pacific Banana Slug",
+        "scientific_name": "Ariolimax columbianus"
+      },
+      {
+        "common_name": "Button's Banana Slug",
+        "scientific_name": "Ariolimax buttoni"
+      },
+      {
+        "common_name": "California Banana Slug",
+        "scientific_name": "Ariolimax californicus"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Ariolimax californicus"
+  },
+  {
+    "image_id": 2757723,
+    "file_name": "demo_images/382bc68a-a595-44bc-9b93-c87a57e8e302.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Yellow-dusted Cream",
+        "scientific_name": "Cabera erythemaria"
+      },
+      {
+        "common_name": "river birch",
+        "scientific_name": "Betula nigra"
+      },
+      {
+        "common_name": "switchgrass",
+        "scientific_name": "Panicum virgatum"
+      },
+      {
+        "common_name": "Colorful Dirona",
+        "scientific_name": "Dirona picta"
+      },
+      {
+        "common_name": "White-lined Dirona",
+        "scientific_name": "Dirona albolineata"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Dirona albolineata"
+  },
+  {
+    "image_id": 2710720,
+    "file_name": "demo_images/8567bc49-70cb-40b7-9fe8-0b95a3b0f6a1.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Blue Green Chiton",
+        "scientific_name": "Chiton glaucus"
+      },
+      {
+        "common_name": "West Indian Fuzzy Chiton",
+        "scientific_name": "Acanthopleura granulata"
+      },
+      {
+        "common_name": "Snakeskin Chiton",
+        "scientific_name": "Sypharochiton pelliserpentis"
+      },
+      {
+        "common_name": "Painted-cup Paintbrush",
+        "scientific_name": "Castilleja coccinea"
+      },
+      {
+        "common_name": "Dotted Ecdytolopha Moth",
+        "scientific_name": "Gymnandrosoma punctidiscanum"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Sypharochiton pelliserpentis"
+  },
+  {
+    "image_id": 2735942,
+    "file_name": "demo_images/9c5e66ef-e31c-42dc-9784-5f97bf4fd84d.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "White Italian Snail",
+        "scientific_name": "Theba pisana"
+      },
+      {
+        "common_name": "Brown-lipped Snail",
+        "scientific_name": "Cepaea nemoralis"
+      },
+      {
+        "common_name": "Copse Snail",
+        "scientific_name": "Arianta arbustorum"
+      },
+      {
+        "common_name": "Green Garden Snail",
+        "scientific_name": "Cantareus apertus"
+      },
+      {
+        "common_name": "White-lipped Snail",
+        "scientific_name": "Cepaea hortensis"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Cantareus apertus"
+  },
+  {
+    "image_id": 2711489,
+    "file_name": "demo_images/deebf200-b2b3-4174-b4c6-9963fabfd6f0.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Harris's Sparrow",
+        "scientific_name": "Zonotrichia querula"
+      },
+      {
+        "common_name": "Cherokee sedge",
+        "scientific_name": "Carex cherokeensis"
+      },
+      {
+        "common_name": "New Zealand Everlastingflower",
+        "scientific_name": "Anaphalioides bellidioides"
+      },
+      {
+        "common_name": "Eastern Mud Snail",
+        "scientific_name": "Tritia obsoleta"
+      },
+      {
+        "common_name": "Chinese hibiscus",
+        "scientific_name": "Hibiscus rosa-sinensis"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Tritia obsoleta"
+  },
+  {
+    "image_id": 2742082,
+    "file_name": "demo_images/4519f938-d6cc-45b6-aeb9-fe721c2fa7f5.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Garden Snail",
+        "scientific_name": "Cornu aspersum"
+      },
+      {
+        "common_name": "Green Garden Snail",
+        "scientific_name": "Cantareus apertus"
+      },
+      {
+        "common_name": "Milk Snail",
+        "scientific_name": "Otala lactea"
+      },
+      {
+        "common_name": "Brown-lipped Snail",
+        "scientific_name": "Cepaea nemoralis"
+      },
+      {
+        "common_name": "White Italian Snail",
+        "scientific_name": "Theba pisana"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Otala lactea"
+  },
+  {
+    "image_id": 2747768,
+    "file_name": "demo_images/578330d2-b5fb-4f42-bfc6-427c8deed664.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Opalescent Nudibranch",
+        "scientific_name": "Hermissenda opalescens"
+      },
+      {
+        "common_name": "Saddled Prominent",
+        "scientific_name": "Heterocampa guttivitta"
+      },
+      {
+        "common_name": "Mexican False Calico",
+        "scientific_name": "Loeselia mexicana"
+      },
+      {
+        "common_name": "Haumakaroa",
+        "scientific_name": "Raukaua simplex"
+      },
+      {
+        "common_name": "Thick-horned Nudibranch",
+        "scientific_name": "Hermissenda crassicornis"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Hermissenda crassicornis"
+  },
+  {
+    "image_id": 2725383,
+    "file_name": "demo_images/31a62d8c-84aa-4c1c-bc5f-fe1e1d174b73.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Short-tailed Ceratosoma",
+        "scientific_name": "Ceratosoma brevicaudatum"
+      },
+      {
+        "common_name": "lesser burdock",
+        "scientific_name": "Arctium minus"
+      },
+      {
+        "common_name": "Clown Doris",
+        "scientific_name": "Ceratosoma amoenum"
+      },
+      {
+        "common_name": "Black-margined Nudibranch",
+        "scientific_name": "Doriprismatica atromarginata"
+      },
+      {
+        "common_name": "Anna's Chromodoris",
+        "scientific_name": "Chromodoris annae"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Doriprismatica atromarginata"
+  },
+  {
+    "image_id": 2767340,
+    "file_name": "demo_images/236be156-4726-4e9a-92f0-745126580524.jpg",
+    "supercategory": "Mollusks",
+    "options": [
+      {
+        "common_name": "Spotted Top Snail",
+        "scientific_name": "Diloma aethiops"
+      },
+      {
+        "common_name": "apple",
+        "scientific_name": "Malus \u00d7domestica"
+      },
+      {
+        "common_name": "River Jewelwing",
+        "scientific_name": "Calopteryx aequabilis"
+      },
+      {
+        "common_name": "beefsteak plant",
+        "scientific_name": "Perilla frutescens"
+      },
+      {
+        "common_name": "Small Blue",
+        "scientific_name": "Cupido minimus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Diloma aethiops"
+  },
+  {
+    "image_id": 2721313,
+    "file_name": "demo_images/c3c46445-b997-4053-9336-8b749754ed5a.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "wingstem monkeyflower",
+        "scientific_name": "Erythranthe alsinoides"
+      },
+      {
+        "common_name": "primrose monkeyflower",
+        "scientific_name": "Erythranthe primuloides"
+      },
+      {
+        "common_name": "Lewis' monkeyflower",
+        "scientific_name": "Erythranthe lewisii"
+      },
+      {
+        "common_name": "muskflower",
+        "scientific_name": "Erythranthe moschata"
+      },
+      {
+        "common_name": "scarlet monkeyflower",
+        "scientific_name": "Erythranthe cardinalis"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Erythranthe lewisii"
+  },
+  {
+    "image_id": 2739957,
+    "file_name": "demo_images/bb5afe3d-67ba-49fd-989b-a4ce21f4968a.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "ripgut brome",
+        "scientific_name": "Bromus diandrus"
+      },
+      {
+        "common_name": "Rescuegrass",
+        "scientific_name": "Bromus catharticus"
+      },
+      {
+        "common_name": "foxtail brome",
+        "scientific_name": "Bromus rubens"
+      },
+      {
+        "common_name": "soft brome",
+        "scientific_name": "Bromus hordeaceus"
+      },
+      {
+        "common_name": "smooth brome",
+        "scientific_name": "Bromus inermis"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Bromus catharticus"
+  },
+  {
+    "image_id": 2738351,
+    "file_name": "demo_images/d0ac7e7a-adcb-4b82-a538-761ef673428a.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "viper's-bugloss",
+        "scientific_name": "Echium vulgare"
+      },
+      {
+        "common_name": "Texas baby blue eyes",
+        "scientific_name": "Nemophila phacelioides"
+      },
+      {
+        "common_name": "Common Fiddleneck",
+        "scientific_name": "Amsinckia menziesii"
+      },
+      {
+        "common_name": "Scorpion's-tail",
+        "scientific_name": "Heliotropium angiospermum"
+      },
+      {
+        "common_name": "Silky Phacelia",
+        "scientific_name": "Phacelia sericea"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Amsinckia menziesii"
+  },
+  {
+    "image_id": 2714635,
+    "file_name": "demo_images/d6fded0b-3f39-4de2-bb5d-3527181a99a7.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "field milkwort",
+        "scientific_name": "Polygala sanguinea"
+      },
+      {
+        "common_name": "Yellow milkwort",
+        "scientific_name": "Polygala rugelii"
+      },
+      {
+        "common_name": "candyroot",
+        "scientific_name": "Polygala nana"
+      },
+      {
+        "common_name": "orange milkwort",
+        "scientific_name": "Polygala lutea"
+      },
+      {
+        "common_name": "white milkwort",
+        "scientific_name": "Polygala alba"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Polygala nana"
+  },
+  {
+    "image_id": 2777329,
+    "file_name": "demo_images/4bede2d0-ac80-44ba-91be-220d332423ee.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "Canada wild lettuce",
+        "scientific_name": "Lactuca canadensis"
+      },
+      {
+        "common_name": "tall blue lettuce",
+        "scientific_name": "Lactuca biennis"
+      },
+      {
+        "common_name": "prickly lettuce",
+        "scientific_name": "Lactuca serriola"
+      },
+      {
+        "common_name": "woodland lettuce",
+        "scientific_name": "Lactuca floridana"
+      },
+      {
+        "common_name": "blue lettuce",
+        "scientific_name": "Lactuca tatarica"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Lactuca tatarica"
+  },
+  {
+    "image_id": 2749986,
+    "file_name": "demo_images/d3cbefdd-4742-4173-a866-46f5bae63000.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "Dog-rose",
+        "scientific_name": "Rosa canina"
+      },
+      {
+        "common_name": "California Wild Rose",
+        "scientific_name": "Rosa californica"
+      },
+      {
+        "common_name": "prairie rose",
+        "scientific_name": "Rosa arkansana"
+      },
+      {
+        "common_name": "Carolina rose",
+        "scientific_name": "Rosa carolina"
+      },
+      {
+        "common_name": "Burnet Rose",
+        "scientific_name": "Rosa spinosissima"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Rosa canina"
+  },
+  {
+    "image_id": 2719244,
+    "file_name": "demo_images/69554dbc-6891-4c71-978a-450ed3a85d87.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "catclaw mimosa",
+        "scientific_name": "Mimosa aculeaticarpa"
+      },
+      {
+        "common_name": "sunshine mimosa",
+        "scientific_name": "Mimosa strigillosa"
+      },
+      {
+        "common_name": "Catclaw Brier",
+        "scientific_name": "Mimosa nuttallii"
+      },
+      {
+        "common_name": "Sensitive Plant",
+        "scientific_name": "Mimosa pudica"
+      },
+      {
+        "common_name": "Fourvalve Mimosa",
+        "scientific_name": "Mimosa quadrivalvis"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Mimosa aculeaticarpa"
+  },
+  {
+    "image_id": 2778117,
+    "file_name": "demo_images/a5aead0f-18ca-48e0-92f4-bb63e42de061.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "Nuttall's toothwort",
+        "scientific_name": "Cardamine nuttallii"
+      },
+      {
+        "common_name": "western wallflower",
+        "scientific_name": "Erysimum capitatum"
+      },
+      {
+        "common_name": "Saharan mustard",
+        "scientific_name": "Brassica tournefortii"
+      },
+      {
+        "common_name": "sea kale",
+        "scientific_name": "Crambe maritima"
+      },
+      {
+        "common_name": "mouse-ear cress",
+        "scientific_name": "Arabidopsis thaliana"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Brassica tournefortii"
+  },
+  {
+    "image_id": 2773543,
+    "file_name": "demo_images/b152e85b-df6f-42eb-a4b8-712bd80ed267.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "common selfheal",
+        "scientific_name": "Prunella vulgaris"
+      },
+      {
+        "common_name": "Formosan Beauty- berry",
+        "scientific_name": "Callicarpa formosana"
+      },
+      {
+        "common_name": "anise hyssop",
+        "scientific_name": "Agastache foeniculum"
+      },
+      {
+        "common_name": "American cornmint",
+        "scientific_name": "Mentha canadensis"
+      },
+      {
+        "common_name": "Mother of Thyme",
+        "scientific_name": "Thymus praecox"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Agastache foeniculum"
+  },
+  {
+    "image_id": 2775438,
+    "file_name": "demo_images/490b02b1-4ab8-44b4-8443-d69af4fa1524.jpg",
+    "supercategory": "Plants",
+    "options": [
+      {
+        "common_name": "Coffee Senna",
+        "scientific_name": "Senna occidentalis"
+      },
+      {
+        "common_name": "African Wild Cassia",
+        "scientific_name": "Senna didymobotrya"
+      },
+      {
+        "common_name": "Coues' senna",
+        "scientific_name": "Senna covesii"
+      },
+      {
+        "common_name": "Candelabra Bush",
+        "scientific_name": "Senna alata"
+      },
+      {
+        "common_name": "Lindheimer's Senna",
+        "scientific_name": "Senna lindheimeriana"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Senna lindheimeriana"
+  },
+  {
+    "image_id": 2693240,
+    "file_name": "demo_images/ba364aca-fef5-43d9-9704-84a9d4fe4e19.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "White-footed Mouse",
+        "scientific_name": "Peromyscus leucopus"
+      },
+      {
+        "common_name": "Meadow Vole",
+        "scientific_name": "Microtus pennsylvanicus"
+      },
+      {
+        "common_name": "Bank Vole",
+        "scientific_name": "Myodes glareolus"
+      },
+      {
+        "common_name": "California Vole",
+        "scientific_name": "Microtus californicus"
+      },
+      {
+        "common_name": "Muskrat",
+        "scientific_name": "Ondatra zibethicus"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Ondatra zibethicus"
+  },
+  {
+    "image_id": 2769935,
+    "file_name": "demo_images/a890f18a-354d-4873-aad8-45072cc02eac.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Elk",
+        "scientific_name": "Cervus canadensis"
+      },
+      {
+        "common_name": "Fallow Deer",
+        "scientific_name": "Dama dama"
+      },
+      {
+        "common_name": "Western Roe Deer",
+        "scientific_name": "Capreolus capreolus"
+      },
+      {
+        "common_name": "White-tailed Deer",
+        "scientific_name": "Odocoileus virginianus"
+      },
+      {
+        "common_name": "Mule Deer",
+        "scientific_name": "Odocoileus hemionus"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Odocoileus hemionus"
+  },
+  {
+    "image_id": 2708327,
+    "file_name": "demo_images/4cc1d278-2a37-4773-b9ab-1e14c1ee2f95.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Stoat",
+        "scientific_name": "Mustela erminea"
+      },
+      {
+        "common_name": "American Marten",
+        "scientific_name": "Martes americana"
+      },
+      {
+        "common_name": "Long-tailed Weasel",
+        "scientific_name": "Mustela frenata"
+      },
+      {
+        "common_name": "American Badger",
+        "scientific_name": "Taxidea taxus"
+      },
+      {
+        "common_name": "Fisher",
+        "scientific_name": "Pekania pennanti"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Taxidea taxus"
+  },
+  {
+    "image_id": 2699115,
+    "file_name": "demo_images/363dd522-6d78-4d21-8f40-ea0e4cf91413.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "American Black Bear",
+        "scientific_name": "Ursus americanus"
+      },
+      {
+        "common_name": "Red-bellied Black Snake",
+        "scientific_name": "Pseudechis porphyriacus"
+      },
+      {
+        "common_name": "Great Banded Furrow Bee",
+        "scientific_name": "Halictus scabiosae"
+      },
+      {
+        "common_name": "Pacific coralroot",
+        "scientific_name": "Corallorhiza mertensiana"
+      },
+      {
+        "common_name": "Brown Bear",
+        "scientific_name": "Ursus arctos"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Ursus arctos"
+  },
+  {
+    "image_id": 2786640,
+    "file_name": "demo_images/9f09ea0c-8b99-46b5-a5f0-9fd88b09e193.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Harris' Antelope Squirrel",
+        "scientific_name": "Ammospermophilus harrisii"
+      },
+      {
+        "common_name": "Eastern Chipmunk",
+        "scientific_name": "Tamias striatus"
+      },
+      {
+        "common_name": "Southern Flying Squirrel",
+        "scientific_name": "Glaucomys volans"
+      },
+      {
+        "common_name": "Plantain Squirrel",
+        "scientific_name": "Callosciurus notatus"
+      },
+      {
+        "common_name": "California Ground Squirrel",
+        "scientific_name": "Otospermophilus beecheyi"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Glaucomys volans"
+  },
+  {
+    "image_id": 2703120,
+    "file_name": "demo_images/62e49592-3079-4218-8071-06d59dfa6f9c.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Silver-haired Bat",
+        "scientific_name": "Lasionycteris noctivagans"
+      },
+      {
+        "common_name": "Tricolored Bat",
+        "scientific_name": "Perimyotis subflavus"
+      },
+      {
+        "common_name": "Hoary Bat",
+        "scientific_name": "Lasiurus cinereus"
+      },
+      {
+        "common_name": "Eastern Red Bat",
+        "scientific_name": "Lasiurus borealis"
+      },
+      {
+        "common_name": "Big Brown Bat",
+        "scientific_name": "Eptesicus fuscus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Perimyotis subflavus"
+  },
+  {
+    "image_id": 2780269,
+    "file_name": "demo_images/8d320f51-5a83-40c3-8dfd-51734e8e9fba.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Yellowseed False Pimpernel",
+        "scientific_name": "Lindernia dubia"
+      },
+      {
+        "common_name": "Brown Bear",
+        "scientific_name": "Ursus arctos"
+      },
+      {
+        "common_name": "American Black Bear",
+        "scientific_name": "Ursus americanus"
+      },
+      {
+        "common_name": "Green Sea Urchin",
+        "scientific_name": "Strongylocentrotus droebachiensis"
+      },
+      {
+        "common_name": "California bulrush",
+        "scientific_name": "Schoenoplectus californicus"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Ursus americanus"
+  },
+  {
+    "image_id": 2746068,
+    "file_name": "demo_images/676d9310-41c0-42a3-9dda-c8d6b12f089a.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Swamp Rabbit",
+        "scientific_name": "Sylvilagus aquaticus"
+      },
+      {
+        "common_name": "Snowshoe Hare",
+        "scientific_name": "Lepus americanus"
+      },
+      {
+        "common_name": "Desert Cottontail",
+        "scientific_name": "Sylvilagus audubonii"
+      },
+      {
+        "common_name": "Mountain Cottontail",
+        "scientific_name": "Sylvilagus nuttallii"
+      },
+      {
+        "common_name": "Marsh Rabbit",
+        "scientific_name": "Sylvilagus palustris"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Lepus americanus"
+  },
+  {
+    "image_id": 2773521,
+    "file_name": "demo_images/dfe3f93e-070f-4d5e-9a0a-4d702eb9dd04.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "many stem evax",
+        "scientific_name": "Diaperia verna"
+      },
+      {
+        "common_name": "Shagreened Slug Moth",
+        "scientific_name": "Apoda biguttata"
+      },
+      {
+        "common_name": "Long-legged Buzzard",
+        "scientific_name": "Buteo rufinus"
+      },
+      {
+        "common_name": "Shaded Broad-bar",
+        "scientific_name": "Scotopteryx chenopodiata"
+      },
+      {
+        "common_name": "Northern Short-tailed Shrew",
+        "scientific_name": "Blarina brevicauda"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Blarina brevicauda"
+  },
+  {
+    "image_id": 2766669,
+    "file_name": "demo_images/32ea246b-8c18-4203-b37a-26f6319cf126.jpg",
+    "supercategory": "Mammals",
+    "options": [
+      {
+        "common_name": "Common Marble",
+        "scientific_name": "Syricoris lacunana"
+      },
+      {
+        "common_name": "Botterboom",
+        "scientific_name": "Tylecodon paniculatus"
+      },
+      {
+        "common_name": "Western Paper Wasp",
+        "scientific_name": "Mischocyttarus flavitarsis"
+      },
+      {
+        "common_name": "American Pika",
+        "scientific_name": "Ochotona princeps"
+      },
+      {
+        "common_name": "Variable Hawk",
+        "scientific_name": "Geranoaetus polyosoma"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Ochotona princeps"
+  },
+  {
+    "image_id": 2740528,
+    "file_name": "demo_images/51ffd298-9810-4c29-a2a9-074d5681ea5d.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Great Plains Toad",
+        "scientific_name": "Anaxyrus cognatus"
+      },
+      {
+        "common_name": "American Toad",
+        "scientific_name": "Anaxyrus americanus"
+      },
+      {
+        "common_name": "Woodhouse's Toad",
+        "scientific_name": "Anaxyrus woodhousii"
+      },
+      {
+        "common_name": "Southern Toad",
+        "scientific_name": "Anaxyrus terrestris"
+      },
+      {
+        "common_name": "Texas Toad",
+        "scientific_name": "Anaxyrus speciosus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Anaxyrus americanus"
+  },
+  {
+    "image_id": 2697024,
+    "file_name": "demo_images/1e78f623-2676-41c0-9738-9a5628788b8f.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Small-mouthed Salamander",
+        "scientific_name": "Ambystoma texanum"
+      },
+      {
+        "common_name": "Marbled Salamander",
+        "scientific_name": "Ambystoma opacum"
+      },
+      {
+        "common_name": "Spotted Salamander",
+        "scientific_name": "Ambystoma maculatum"
+      },
+      {
+        "common_name": "Blue-spotted Salamander",
+        "scientific_name": "Ambystoma laterale"
+      },
+      {
+        "common_name": "Northwestern Salamander",
+        "scientific_name": "Ambystoma gracile"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Ambystoma gracile"
+  },
+  {
+    "image_id": 2759111,
+    "file_name": "demo_images/ddccadde-ea23-4c8b-b28c-6b0759abf982.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Woodhouse's Toad",
+        "scientific_name": "Anaxyrus woodhousii"
+      },
+      {
+        "common_name": "Taiwan Common Toad",
+        "scientific_name": "Bufo bankorensis"
+      },
+      {
+        "common_name": "Variable Toad",
+        "scientific_name": "Bufotes sitibundus"
+      },
+      {
+        "common_name": "Leaf Litter Toad",
+        "scientific_name": "Rhaebo haematiticus"
+      },
+      {
+        "common_name": "European Toad",
+        "scientific_name": "Bufo bufo"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Bufo bufo"
+  },
+  {
+    "image_id": 2753602,
+    "file_name": "demo_images/f498e7c0-9944-47b7-9a6c-468fa79b9ef8.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Southern Two-lined Salamander",
+        "scientific_name": "Eurycea cirrigera"
+      },
+      {
+        "common_name": "Long-tailed Salamander",
+        "scientific_name": "Eurycea longicauda"
+      },
+      {
+        "common_name": "Northern Two-lined Salamander",
+        "scientific_name": "Eurycea bislineata"
+      },
+      {
+        "common_name": "Cave Salamander",
+        "scientific_name": "Eurycea lucifuga"
+      },
+      {
+        "common_name": "Blue Ridge Two-lined Salamander",
+        "scientific_name": "Eurycea wilderae"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Eurycea lucifuga"
+  },
+  {
+    "image_id": 2749453,
+    "file_name": "demo_images/aa3b098e-1e3a-4a4a-b89d-9de5c2942e37.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Seal Salamander",
+        "scientific_name": "Desmognathus monticola"
+      },
+      {
+        "common_name": "Northern Zigzag Salamander",
+        "scientific_name": "Plethodon dorsalis"
+      },
+      {
+        "common_name": "Northern Slimy Salamander",
+        "scientific_name": "Plethodon glutinosus"
+      },
+      {
+        "common_name": "Green Salamander",
+        "scientific_name": "Aneides aeneus"
+      },
+      {
+        "common_name": "White-spotted Slimy Salamander",
+        "scientific_name": "Plethodon cylindraceus"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Aneides aeneus"
+  },
+  {
+    "image_id": 2700636,
+    "file_name": "demo_images/c7af6f84-5bce-47a9-a442-2e77d0b416b7.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Dusky Salamander",
+        "scientific_name": "Desmognathus fuscus"
+      },
+      {
+        "common_name": "Black-bellied Salamander",
+        "scientific_name": "Desmognathus quadramaculatus"
+      },
+      {
+        "common_name": "Allegheny Mountain Dusky Salamander",
+        "scientific_name": "Desmognathus ochrophaeus"
+      },
+      {
+        "common_name": "Seal Salamander",
+        "scientific_name": "Desmognathus monticola"
+      },
+      {
+        "common_name": "Spotted Dusky Salamander",
+        "scientific_name": "Desmognathus conanti"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Desmognathus ochrophaeus"
+  },
+  {
+    "image_id": 2765341,
+    "file_name": "demo_images/cdb97423-4e3d-4f0d-8939-c3a76cf7f919.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Eastern Dwarf Treefrog",
+        "scientific_name": "Litoria fallax"
+      },
+      {
+        "common_name": "Moore's Frog",
+        "scientific_name": "Ranoidea moorei"
+      },
+      {
+        "common_name": "Peron's Tree Frog",
+        "scientific_name": "Litoria peronii"
+      },
+      {
+        "common_name": "Green Tree Frog",
+        "scientific_name": "Ranoidea caerulea"
+      },
+      {
+        "common_name": "Whistling Tree Frog",
+        "scientific_name": "Litoria ewingii"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Ranoidea moorei"
+  },
+  {
+    "image_id": 2717248,
+    "file_name": "demo_images/5d77dc75-31d4-4eb7-82eb-cb2400f9a180.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Temple Tree Frog",
+        "scientific_name": "Kurixalus idiootocus"
+      },
+      {
+        "common_name": "Spot-legged Treefrog",
+        "scientific_name": "Polypedates megacephalus"
+      },
+      {
+        "common_name": "Robust Kajika Frog",
+        "scientific_name": "Buergeria robusta"
+      },
+      {
+        "common_name": "Western Buttercup",
+        "scientific_name": "Ranunculus occidentalis"
+      },
+      {
+        "common_name": "Common Tree Frog",
+        "scientific_name": "Polypedates leucomystax"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Kurixalus idiootocus"
+  },
+  {
+    "image_id": 2719344,
+    "file_name": "demo_images/75b9531f-772e-461c-9aea-cb2815a784d4.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Mediterranean Tree Frog",
+        "scientific_name": "Hyla meridionalis"
+      },
+      {
+        "common_name": "Spring Peeper",
+        "scientific_name": "Pseudacris crucifer"
+      },
+      {
+        "common_name": "Rosenberg's Gladiator Frog",
+        "scientific_name": "Boana rosenbergi"
+      },
+      {
+        "common_name": "Southern Cricket Frog",
+        "scientific_name": "Acris gryllus"
+      },
+      {
+        "common_name": "Mountain Tree Frog",
+        "scientific_name": "Hyla eximia"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Boana rosenbergi"
+  },
+  {
+    "image_id": 2720004,
+    "file_name": "demo_images/d1adc466-2b1a-436a-a590-f297b6bcf9cd.jpg",
+    "supercategory": "Amphibians",
+    "options": [
+      {
+        "common_name": "Rio Grande Chirping Frog",
+        "scientific_name": "Eleutherodactylus cystignathoides"
+      },
+      {
+        "common_name": "Royal Spoonbill",
+        "scientific_name": "Platalea regia"
+      },
+      {
+        "common_name": "Greenhouse Frog",
+        "scientific_name": "Eleutherodactylus planirostris"
+      },
+      {
+        "common_name": "hollyleaf redberry",
+        "scientific_name": "Rhamnus ilicifolia"
+      },
+      {
+        "common_name": "Sagebrush Checkerspot",
+        "scientific_name": "Chlosyne acastus"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Eleutherodactylus planirostris"
+  },
+  {
+    "image_id": 2734657,
+    "file_name": "demo_images/d29e3dc2-123a-4de5-8e2c-fc25fe3e415b.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Plains Hognose Snake",
+        "scientific_name": "Heterodon nasicus"
+      },
+      {
+        "common_name": "Desert Kingsnake",
+        "scientific_name": "Lampropeltis splendida"
+      },
+      {
+        "common_name": "Aquatic Garter Snake",
+        "scientific_name": "Thamnophis atratus"
+      },
+      {
+        "common_name": "Eastern Worm Snake",
+        "scientific_name": "Carphophis amoenus"
+      },
+      {
+        "common_name": "Sharp-tailed Snake",
+        "scientific_name": "Contia tenuis"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Heterodon nasicus"
+  },
+  {
+    "image_id": 2730434,
+    "file_name": "demo_images/9fb39765-7350-420b-9d31-f7e57b7d0c76.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Blue Land Crab",
+        "scientific_name": "Cardisoma guanhumi"
+      },
+      {
+        "common_name": "Northern Three-lined Boa",
+        "scientific_name": "Lichanura orcutti"
+      },
+      {
+        "common_name": "Northern Rubber Boa",
+        "scientific_name": "Charina bottae"
+      },
+      {
+        "common_name": "Boa Constrictor",
+        "scientific_name": "Boa constrictor"
+      },
+      {
+        "common_name": "Central American Boa",
+        "scientific_name": "Boa imperator"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Boa constrictor"
+  },
+  {
+    "image_id": 2752874,
+    "file_name": "demo_images/4d130894-2e40-466c-9218-4f5f6b7e8d52.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Corn Snake",
+        "scientific_name": "Pantherophis guttatus"
+      },
+      {
+        "common_name": "Gray Ratsnake",
+        "scientific_name": "Pantherophis spiloides"
+      },
+      {
+        "common_name": "Eastern Foxsnake",
+        "scientific_name": "Pantherophis vulpinus"
+      },
+      {
+        "common_name": "Western Rat Snake",
+        "scientific_name": "Pantherophis obsoletus"
+      },
+      {
+        "common_name": "Eastern Rat Snake",
+        "scientific_name": "Pantherophis alleghaniensis"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Pantherophis vulpinus"
+  },
+  {
+    "image_id": 2739730,
+    "file_name": "demo_images/c49b6b03-5b5e-448a-9a50-22e76eb964e1.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Northern Red-bellied Cooter",
+        "scientific_name": "Pseudemys rubriventris"
+      },
+      {
+        "common_name": "Mesoamerican Slider",
+        "scientific_name": "Trachemys venusta"
+      },
+      {
+        "common_name": "Painted Turtle",
+        "scientific_name": "Chrysemys picta"
+      },
+      {
+        "common_name": "Pond Slider",
+        "scientific_name": "Trachemys scripta"
+      },
+      {
+        "common_name": "False Map Turtle",
+        "scientific_name": "Graptemys pseudogeographica"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Trachemys venusta"
+  },
+  {
+    "image_id": 2691431,
+    "file_name": "demo_images/fab35f16-02fc-44d3-8c2e-5c06bd0041ee.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Common Kingsnake",
+        "scientific_name": "Lampropeltis getula"
+      },
+      {
+        "common_name": "Eastern Milksnake",
+        "scientific_name": "Lampropeltis triangulum"
+      },
+      {
+        "common_name": "Desert Kingsnake",
+        "scientific_name": "Lampropeltis splendida"
+      },
+      {
+        "common_name": "Speckled Kingsnake",
+        "scientific_name": "Lampropeltis holbrooki"
+      },
+      {
+        "common_name": "California King Snake",
+        "scientific_name": "Lampropeltis californiae"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Lampropeltis splendida"
+  },
+  {
+    "image_id": 2729620,
+    "file_name": "demo_images/58793c98-4af2-46ca-a2c8-5820de3abef7.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Red Diamond Rattlesnake",
+        "scientific_name": "Crotalus ruber"
+      },
+      {
+        "common_name": "Western Rattlesnake",
+        "scientific_name": "Crotalus oreganus"
+      },
+      {
+        "common_name": "Sidewinder",
+        "scientific_name": "Crotalus cerastes"
+      },
+      {
+        "common_name": "Southwestern Speckled Rattlesnake",
+        "scientific_name": "Crotalus pyrrhus"
+      },
+      {
+        "common_name": "Eastern Black-tailed Rattlesnake",
+        "scientific_name": "Crotalus ornatus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Crotalus ruber"
+  },
+  {
+    "image_id": 2700892,
+    "file_name": "demo_images/61207a94-3a9c-491e-a84f-e8b27e713c65.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Graphic Spiny Lizard",
+        "scientific_name": "Sceloporus grammicus"
+      },
+      {
+        "common_name": "Eastern Fence Lizard",
+        "scientific_name": "Sceloporus undulatus"
+      },
+      {
+        "common_name": "Western Fence Lizard",
+        "scientific_name": "Sceloporus occidentalis"
+      },
+      {
+        "common_name": "Sagebrush Lizard",
+        "scientific_name": "Sceloporus graciosus"
+      },
+      {
+        "common_name": "Prairie Lizard",
+        "scientific_name": "Sceloporus consobrinus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Sceloporus undulatus"
+  },
+  {
+    "image_id": 2753613,
+    "file_name": "demo_images/79eca412-137b-4d83-bee8-23227db72fa0.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Common House Gecko",
+        "scientific_name": "Hemidactylus frenatus"
+      },
+      {
+        "common_name": "Flat-tailed House Gecko",
+        "scientific_name": "Hemidactylus platyurus"
+      },
+      {
+        "common_name": "Mutilating Gecko",
+        "scientific_name": "Gehyra mutilata"
+      },
+      {
+        "common_name": "Mourning Gecko",
+        "scientific_name": "Lepidodactylus lugubris"
+      },
+      {
+        "common_name": "Tropical House Gecko",
+        "scientific_name": "Hemidactylus mabouia"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Lepidodactylus lugubris"
+  },
+  {
+    "image_id": 2718984,
+    "file_name": "demo_images/4cd869d0-1155-4efc-9714-518af79ea2a4.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "Florida Cottonmouth",
+        "scientific_name": "Agkistrodon conanti"
+      },
+      {
+        "common_name": "Fer-de-lance",
+        "scientific_name": "Bothrops asper"
+      },
+      {
+        "common_name": "Chinese Green Tree Viper",
+        "scientific_name": "Trimeresurus stejnegeri"
+      },
+      {
+        "common_name": "Puff Adder",
+        "scientific_name": "Bitis arietans"
+      },
+      {
+        "common_name": "Massasauga",
+        "scientific_name": "Sistrurus catenatus"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Trimeresurus stejnegeri"
+  },
+  {
+    "image_id": 2718344,
+    "file_name": "demo_images/42f0a8e4-5df7-476a-ace4-d65e51119ff4.jpg",
+    "supercategory": "Reptiles",
+    "options": [
+      {
+        "common_name": "California King Snake",
+        "scientific_name": "Lampropeltis californiae"
+      },
+      {
+        "common_name": "Eastern Worm Snake",
+        "scientific_name": "Carphophis amoenus"
+      },
+      {
+        "common_name": "Western Ribbon Snake",
+        "scientific_name": "Thamnophis proximus"
+      },
+      {
+        "common_name": "Tessellated Water Snake",
+        "scientific_name": "Natrix tessellata"
+      },
+      {
+        "common_name": "Blunthead Tree Snake",
+        "scientific_name": "Imantodes cenchoa"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Carphophis amoenus"
+  },
+  {
+    "image_id": 2785251,
+    "file_name": "demo_images/1750bc98-86be-4bb8-8202-a83a11e9ac2a.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Painted Ghost Crab",
+        "scientific_name": "Ocypode gaudichaudii"
+      },
+      {
+        "common_name": "Bowed Fiddler Crab",
+        "scientific_name": "Tubuca arcuata"
+      },
+      {
+        "common_name": "Horned Ghost Crab",
+        "scientific_name": "Ocypode ceratophthalmus"
+      },
+      {
+        "common_name": "Atlantic Ghost Crab",
+        "scientific_name": "Ocypode quadrata"
+      },
+      {
+        "common_name": "Mud Fiddler Crab",
+        "scientific_name": "Minuca pugnax"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Ocypode ceratophthalmus"
+  },
+  {
+    "image_id": 2762509,
+    "file_name": "demo_images/f43eab3d-56aa-434d-8719-272c741befab.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Pacific Lion's Mane Jelly",
+        "scientific_name": "Cyanea ferruginea"
+      },
+      {
+        "common_name": "Leptoglossus oppositus",
+        "scientific_name": "Leptoglossus oppositus"
+      },
+      {
+        "common_name": "Jack O'Lantern Mushroom",
+        "scientific_name": "Omphalotus illudens"
+      },
+      {
+        "common_name": "Snakeskin Wrasse",
+        "scientific_name": "Eupetrichthys angustipes"
+      },
+      {
+        "common_name": "Orvasca subnotata",
+        "scientific_name": "Orvasca subnotata"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Cyanea ferruginea"
+  },
+  {
+    "image_id": 2717970,
+    "file_name": "demo_images/5fef982b-614c-4ede-bd38-1a82e234964b.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Haller's Round Ray",
+        "scientific_name": "Urobatis halleri"
+      },
+      {
+        "common_name": "American sycamore",
+        "scientific_name": "Platanus occidentalis"
+      },
+      {
+        "common_name": "lilac tasselflower",
+        "scientific_name": "Emilia sonchifolia"
+      },
+      {
+        "common_name": "Crane Hawk",
+        "scientific_name": "Geranospiza caerulescens"
+      },
+      {
+        "common_name": "Scrub Tanager",
+        "scientific_name": "Stilpnia vitriolina"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Urobatis halleri"
+  },
+  {
+    "image_id": 2765897,
+    "file_name": "demo_images/4dace2d7-4d38-4349-aa2c-576a196b391c.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Goatsbeard",
+        "scientific_name": "Aruncus dioicus"
+      },
+      {
+        "common_name": "tall coreopsis",
+        "scientific_name": "Coreopsis tripteris"
+      },
+      {
+        "common_name": "Pacific Blood Star",
+        "scientific_name": "Henricia leviuscula"
+      },
+      {
+        "common_name": "Guatemalan Cracker",
+        "scientific_name": "Hamadryas guatemalena"
+      },
+      {
+        "common_name": "Single-dotted Wave",
+        "scientific_name": "Idaea dimidiata"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Henricia leviuscula"
+  },
+  {
+    "image_id": 2752033,
+    "file_name": "demo_images/f38b71c6-e5f9-43a1-bf47-1b9b9a07f701.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Speckled Swimming Crab",
+        "scientific_name": "Arenaeus cribrarius"
+      },
+      {
+        "common_name": "European Honey-buzzard",
+        "scientific_name": "Pernis apivorus"
+      },
+      {
+        "common_name": "Common Blue Crab",
+        "scientific_name": "Callinectes sapidus"
+      },
+      {
+        "common_name": "meadow salsify",
+        "scientific_name": "Tragopogon pratensis"
+      },
+      {
+        "common_name": "chicken of the woods",
+        "scientific_name": "Laetiporus sulphureus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Arenaeus cribrarius"
+  },
+  {
+    "image_id": 2705351,
+    "file_name": "demo_images/a8f06145-0d82-4be4-96b2-9bc3d4036acf.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Florida Green Watersnake",
+        "scientific_name": "Nerodia floridana"
+      },
+      {
+        "common_name": "Giant Plumose Anemone",
+        "scientific_name": "Metridium farcimen"
+      },
+      {
+        "common_name": "Patent-leather beetle",
+        "scientific_name": "Odontotaenius disjunctus"
+      },
+      {
+        "common_name": "Plumose Anemone",
+        "scientific_name": "Metridium senile"
+      },
+      {
+        "common_name": "Mistle Thrush",
+        "scientific_name": "Turdus viscivorus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Metridium farcimen"
+  },
+  {
+    "image_id": 2721842,
+    "file_name": "demo_images/c8b9abcb-37b3-48f3-91d8-151205b25c36.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Moon Jellyfish",
+        "scientific_name": "Aurelia aurita"
+      },
+      {
+        "common_name": "Greater Moon Jellyfish",
+        "scientific_name": "Aurelia labiata"
+      },
+      {
+        "common_name": "Black Bryony",
+        "scientific_name": "Dioscorea communis"
+      },
+      {
+        "common_name": "sweet cherry",
+        "scientific_name": "Prunus avium"
+      },
+      {
+        "common_name": "Dwarf Fireweed",
+        "scientific_name": "Chamaenerion latifolium"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Aurelia labiata"
+  },
+  {
+    "image_id": 2717315,
+    "file_name": "demo_images/ff881c57-6cc3-4106-b048-9863bb02a297.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Asian Shore Crab",
+        "scientific_name": "Hemigrapsus sanguineus"
+      },
+      {
+        "common_name": "Golden-eye Lichen",
+        "scientific_name": "Teloschistes chrysophthalmus"
+      },
+      {
+        "common_name": "Purple Shore Crab",
+        "scientific_name": "Hemigrapsus nudus"
+      },
+      {
+        "common_name": "Yellow Shore Crab",
+        "scientific_name": "Hemigrapsus oregonensis"
+      },
+      {
+        "common_name": "Boa Constrictor",
+        "scientific_name": "Boa constrictor"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Hemigrapsus oregonensis"
+  },
+  {
+    "image_id": 2756798,
+    "file_name": "demo_images/0a2ceec3-5706-4547-bf08-4d8b0fbfd060.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Turquoise Bluet",
+        "scientific_name": "Enallagma divagans"
+      },
+      {
+        "common_name": "Pelagic Gooseneck Barnacle",
+        "scientific_name": "Lepas anatifera"
+      },
+      {
+        "common_name": "Goose Barnacle",
+        "scientific_name": "Lepas anserifera"
+      },
+      {
+        "common_name": "Steelblue Ladybird",
+        "scientific_name": "Halmus chalybeus"
+      },
+      {
+        "common_name": "Ganoderma brownii",
+        "scientific_name": "Ganoderma brownii"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Lepas anatifera"
+  },
+  {
+    "image_id": 2749657,
+    "file_name": "demo_images/c29a343e-9a3a-4ff6-a816-edde8edd99f5.jpg",
+    "supercategory": "Animalia",
+    "options": [
+      {
+        "common_name": "Red Sea Cucumber",
+        "scientific_name": "Cucumaria miniata"
+      },
+      {
+        "common_name": "Noni",
+        "scientific_name": "Morinda citrifolia"
+      },
+      {
+        "common_name": "Western Terrestrial Garter Snake",
+        "scientific_name": "Thamnophis elegans"
+      },
+      {
+        "common_name": "Common Toothwort",
+        "scientific_name": "Lathraea squamaria"
+      },
+      {
+        "common_name": "Narrow-headed Marsh Fly",
+        "scientific_name": "Helophilus fasciatus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Cucumaria miniata"
+  },
+  {
+    "image_id": 2769141,
+    "file_name": "demo_images/115b6508-f59e-47ee-8b2c-5c04c4c92107.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Small Fan-footed Wave",
+        "scientific_name": "Idaea biselata"
+      },
+      {
+        "common_name": "Omnivorous Looper",
+        "scientific_name": "Sabulodes aegrotata"
+      },
+      {
+        "common_name": "Powdered Bigwing Moth",
+        "scientific_name": "Lobophora nivigerata"
+      },
+      {
+        "common_name": "Packard's Wave",
+        "scientific_name": "Cyclophora packardi"
+      },
+      {
+        "common_name": "Dot-lined Angle",
+        "scientific_name": "Psamatodes abydata"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Lobophora nivigerata"
+  },
+  {
+    "image_id": 2724194,
+    "file_name": "demo_images/b1f5659d-5762-449d-b572-64351c3378c7.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Large Lace Border Moth",
+        "scientific_name": "Scopula limboundata"
+      },
+      {
+        "common_name": "Packard's Wave",
+        "scientific_name": "Cyclophora packardi"
+      },
+      {
+        "common_name": "Juniper-twig Geometer",
+        "scientific_name": "Patalene olyzonaria"
+      },
+      {
+        "common_name": "Small Phoenix",
+        "scientific_name": "Ecliptopera silaceata"
+      },
+      {
+        "common_name": "Orange-barred Carpet Moth",
+        "scientific_name": "Dysstroma hersiliata"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Dysstroma hersiliata"
+  },
+  {
+    "image_id": 2769915,
+    "file_name": "demo_images/2b6d82eb-fbc8-4c1c-ba2c-2f7f4039e3ca.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Pale Grass Blue",
+        "scientific_name": "Pseudozizeeria maha"
+      },
+      {
+        "common_name": "Blue-spot Hairstreak",
+        "scientific_name": "Satyrium spini"
+      },
+      {
+        "common_name": "Reakirt's Blue",
+        "scientific_name": "Echinargus isola"
+      },
+      {
+        "common_name": "Sooty Copper",
+        "scientific_name": "Lycaena tityrus"
+      },
+      {
+        "common_name": "Acmon Blue",
+        "scientific_name": "Icaricia acmon"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Icaricia acmon"
+  },
+  {
+    "image_id": 2731587,
+    "file_name": "demo_images/5ee476d8-890d-4eae-a1f9-2b9b1733cd5f.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Gum Leaf Skeletonizer",
+        "scientific_name": "Uraba lugens"
+      },
+      {
+        "common_name": "Orange Threadtail",
+        "scientific_name": "Nososticta solida"
+      },
+      {
+        "common_name": "Northern Cottonmouth",
+        "scientific_name": "Agkistrodon piscivorus"
+      },
+      {
+        "common_name": "Yellow featherlegs",
+        "scientific_name": "Copera marginipes"
+      },
+      {
+        "common_name": "White-legged Damselfly",
+        "scientific_name": "Platycnemis pennipes"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Nososticta solida"
+  },
+  {
+    "image_id": 2719029,
+    "file_name": "demo_images/e1a5714e-8293-4335-ae75-29b323aff784.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Spangled Skimmer",
+        "scientific_name": "Libellula cyanea"
+      },
+      {
+        "common_name": "Twelve-spotted Skimmer",
+        "scientific_name": "Libellula pulchella"
+      },
+      {
+        "common_name": "Four-spotted Skimmer",
+        "scientific_name": "Libellula quadrimaculata"
+      },
+      {
+        "common_name": "Neon Skimmer",
+        "scientific_name": "Libellula croceipennis"
+      },
+      {
+        "common_name": "Bar-winged Skimmer",
+        "scientific_name": "Libellula axilena"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Libellula cyanea"
+  },
+  {
+    "image_id": 2712093,
+    "file_name": "demo_images/6561518b-bdbc-4f8f-a52d-bdda7b70ca61.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Forked Fungus Beetle",
+        "scientific_name": "Bolitotherus cornutus"
+      },
+      {
+        "common_name": "Wooly Darkling Beetle",
+        "scientific_name": "Eleodes osculans"
+      },
+      {
+        "common_name": "Eleodes obscura",
+        "scientific_name": "Eleodes obscura"
+      },
+      {
+        "common_name": "Hirta Beetle",
+        "scientific_name": "Lagria hirta"
+      },
+      {
+        "common_name": "Square-spot Rustic",
+        "scientific_name": "Xestia xanthographa"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Lagria hirta"
+  },
+  {
+    "image_id": 2748306,
+    "file_name": "demo_images/9812ad99-8aa3-4ad7-9cbb-17c40c756984.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Rhododendron Leafhopper",
+        "scientific_name": "Graphocephala fennahi"
+      },
+      {
+        "common_name": "Japanese Leafhopper",
+        "scientific_name": "Orientus ishidae"
+      },
+      {
+        "common_name": "Speckled Sharpshooter",
+        "scientific_name": "Paraulacizes irrorata"
+      },
+      {
+        "common_name": "Versute Sharpshooter",
+        "scientific_name": "Graphocephala versuta"
+      },
+      {
+        "common_name": "Coppery Leafhopper",
+        "scientific_name": "Jikradia olitoria"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Jikradia olitoria"
+  },
+  {
+    "image_id": 2774563,
+    "file_name": "demo_images/bf1da09c-2c08-46f2-809e-bb08efbcccb0.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Yellow-spotted Stink Bug",
+        "scientific_name": "Erthesina fullo"
+      },
+      {
+        "common_name": "Elf Shoe Stink Bug",
+        "scientific_name": "Menecles insertus"
+      },
+      {
+        "common_name": "Bagrada Bug",
+        "scientific_name": "Bagrada hilaris"
+      },
+      {
+        "common_name": "Green Stinkbug",
+        "scientific_name": "Chinavia hilaris"
+      },
+      {
+        "common_name": "Carpocoris fuscispinus",
+        "scientific_name": "Carpocoris fuscispinus"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Chinavia hilaris"
+  },
+  {
+    "image_id": 2718188,
+    "file_name": "demo_images/e48db412-089d-49e9-8e05-c26635e157de.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "Bee Beetle",
+        "scientific_name": "Trichius fasciatus"
+      },
+      {
+        "common_name": "Delta Flower Scarab",
+        "scientific_name": "Trigonopeltastes delta"
+      },
+      {
+        "common_name": "Gazelle Scarab",
+        "scientific_name": "Digitonthophagus gazella"
+      },
+      {
+        "common_name": "Garden Chafer Beetle",
+        "scientific_name": "Phyllopertha horticola"
+      },
+      {
+        "common_name": "European Rhinoceros Beetle",
+        "scientific_name": "Oryctes nasicornis"
+      }
+    ],
+    "answer_index": 2,
+    "correct_scientific": "Digitonthophagus gazella"
+  },
+  {
+    "image_id": 2764385,
+    "file_name": "demo_images/4c8c125f-7bec-40d0-9d53-53eeb59147f7.jpg",
+    "supercategory": "Insects",
+    "options": [
+      {
+        "common_name": "White-tailed Skimmer",
+        "scientific_name": "Orthetrum albistylum"
+      },
+      {
+        "common_name": "Keeled Skipper",
+        "scientific_name": "Orthetrum coerulescens"
+      },
+      {
+        "common_name": "Blue Skimmer",
+        "scientific_name": "Orthetrum caledonicum"
+      },
+      {
+        "common_name": "Crimson-tailed Marsh Hawk",
+        "scientific_name": "Orthetrum pruinosum"
+      },
+      {
+        "common_name": "Blue-tailed Forest Hawk",
+        "scientific_name": "Orthetrum triangulare"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Orthetrum coerulescens"
+  },
+  {
+    "image_id": 2763082,
+    "file_name": "demo_images/48c9db72-a07a-45cc-8404-4023ec6c71cd.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Australian Mado",
+        "scientific_name": "Atypichthys strigatus"
+      },
+      {
+        "common_name": "Stripey",
+        "scientific_name": "Microcanthus strigatus"
+      },
+      {
+        "common_name": "common milkweed",
+        "scientific_name": "Asclepias syriaca"
+      },
+      {
+        "common_name": "Silver Sweep",
+        "scientific_name": "Scorpis lineolata"
+      },
+      {
+        "common_name": "Moonlighter",
+        "scientific_name": "Tilodon sexfasciatus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Microcanthus strigatus"
+  },
+  {
+    "image_id": 2693319,
+    "file_name": "demo_images/be1e2462-2779-41d3-beb1-2f0ef249ab0e.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Cutthroat Trout",
+        "scientific_name": "Oncorhynchus clarkii"
+      },
+      {
+        "common_name": "King Salmon",
+        "scientific_name": "Oncorhynchus tshawytscha"
+      },
+      {
+        "common_name": "Coho Salmon",
+        "scientific_name": "Oncorhynchus kisutch"
+      },
+      {
+        "common_name": "Sockeye Salmon",
+        "scientific_name": "Oncorhynchus nerka"
+      },
+      {
+        "common_name": "Rainbow Trout",
+        "scientific_name": "Oncorhynchus mykiss"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Oncorhynchus mykiss"
+  },
+  {
+    "image_id": 2762674,
+    "file_name": "demo_images/967b41b1-a826-472c-9dba-4ba69957c57d.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "California sweetshrub",
+        "scientific_name": "Calycanthus occidentalis"
+      },
+      {
+        "common_name": "Ara tanan",
+        "scientific_name": "Euphorbia hirta"
+      },
+      {
+        "common_name": "Feathered Thorn",
+        "scientific_name": "Colotois pennaria"
+      },
+      {
+        "common_name": "Flathead Mullet",
+        "scientific_name": "Mugil cephalus"
+      },
+      {
+        "common_name": "Bunch-flowered Daffodil",
+        "scientific_name": "Narcissus tazetta"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Mugil cephalus"
+  },
+  {
+    "image_id": 2731712,
+    "file_name": "demo_images/632f4e45-1d22-4e74-80d8-9a5431be8f1d.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Rainbow Darter",
+        "scientific_name": "Etheostoma caeruleum"
+      },
+      {
+        "common_name": "Yellow Perch",
+        "scientific_name": "Perca flavescens"
+      },
+      {
+        "common_name": "Walleye",
+        "scientific_name": "Sander vitreus"
+      },
+      {
+        "common_name": "English Perch",
+        "scientific_name": "Perca fluviatilis"
+      },
+      {
+        "common_name": "Siberian Chipmunk",
+        "scientific_name": "Eutamias sibiricus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Etheostoma caeruleum"
+  },
+  {
+    "image_id": 2741484,
+    "file_name": "demo_images/fbfb12b0-2e47-451a-9b4c-466e1c68ff0b.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Florida Gar",
+        "scientific_name": "Lepisosteus platyrhincus"
+      },
+      {
+        "common_name": "Longnose Gar",
+        "scientific_name": "Lepisosteus osseus"
+      },
+      {
+        "common_name": "Eastern Red Scorpionfish",
+        "scientific_name": "Scorpaena jacksoniensis"
+      },
+      {
+        "common_name": "Spotted Gar",
+        "scientific_name": "Lepisosteus oculatus"
+      },
+      {
+        "common_name": "Mount Diablo fairy-lantern",
+        "scientific_name": "Calochortus pulchellus"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Lepisosteus platyrhincus"
+  },
+  {
+    "image_id": 2760621,
+    "file_name": "demo_images/68fa2b14-88e8-48df-8138-ec18ebc52c1a.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Garibaldi",
+        "scientific_name": "Hypsypops rubicundus"
+      },
+      {
+        "common_name": "Mediterranean Damselfish",
+        "scientific_name": "Chromis chromis"
+      },
+      {
+        "common_name": "Immaculate Damsel",
+        "scientific_name": "Mecaenichthys immaculatus"
+      },
+      {
+        "common_name": "Clark's Anemonefish",
+        "scientific_name": "Amphiprion clarkii"
+      },
+      {
+        "common_name": "Threespot Damselfish",
+        "scientific_name": "Dascyllus trimaculatus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Chromis chromis"
+  },
+  {
+    "image_id": 2732551,
+    "file_name": "demo_images/27551976-68a7-4bce-b2f1-24b19d839f72.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "White Bream",
+        "scientific_name": "Diplodus sargus"
+      },
+      {
+        "common_name": "Silver Seabream",
+        "scientific_name": "Chrysophrys auratus"
+      },
+      {
+        "common_name": "Saddled Seabream",
+        "scientific_name": "Oblada melanura"
+      },
+      {
+        "common_name": "Common Two-banded Seabream",
+        "scientific_name": "Diplodus vulgaris"
+      },
+      {
+        "common_name": "Salema Porgy",
+        "scientific_name": "Sarpa salpa"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Chrysophrys auratus"
+  },
+  {
+    "image_id": 2781163,
+    "file_name": "demo_images/a9c14f23-68d2-40cc-9e9a-73d631dfc13d.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Cortez rainbow wrasse",
+        "scientific_name": "Thalassoma lucasanum"
+      },
+      {
+        "common_name": "Ornate Wrasse",
+        "scientific_name": "Thalassoma pavo"
+      },
+      {
+        "common_name": "Caribbean Bluehead Wrasse",
+        "scientific_name": "Thalassoma bifasciatum"
+      },
+      {
+        "common_name": "Moon Wrasse",
+        "scientific_name": "Thalassoma lunare"
+      },
+      {
+        "common_name": "Six-bar Wrasse",
+        "scientific_name": "Thalassoma hardwicke"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Thalassoma lucasanum"
+  },
+  {
+    "image_id": 2777841,
+    "file_name": "demo_images/83fe6871-5a6d-4814-810c-8db18914f65d.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Green Sunfish",
+        "scientific_name": "Lepomis cyanellus"
+      },
+      {
+        "common_name": "Smallmouth Bass",
+        "scientific_name": "Micropterus dolomieu"
+      },
+      {
+        "common_name": "Redear Sunfish",
+        "scientific_name": "Lepomis microlophus"
+      },
+      {
+        "common_name": "Longear Sunfish",
+        "scientific_name": "Lepomis megalotis"
+      },
+      {
+        "common_name": "Pumpkinseed Sunfish",
+        "scientific_name": "Lepomis gibbosus"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Micropterus dolomieu"
+  },
+  {
+    "image_id": 2728434,
+    "file_name": "demo_images/aca572d0-972f-4923-af43-a2e3065236ad.jpg",
+    "supercategory": "Ray-finned Fishes",
+    "options": [
+      {
+        "common_name": "Coho Salmon",
+        "scientific_name": "Oncorhynchus kisutch"
+      },
+      {
+        "common_name": "King Salmon",
+        "scientific_name": "Oncorhynchus tshawytscha"
+      },
+      {
+        "common_name": "Cutthroat Trout",
+        "scientific_name": "Oncorhynchus clarkii"
+      },
+      {
+        "common_name": "Sockeye Salmon",
+        "scientific_name": "Oncorhynchus nerka"
+      },
+      {
+        "common_name": "Rainbow Trout",
+        "scientific_name": "Oncorhynchus mykiss"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Oncorhynchus tshawytscha"
+  },
+  {
+    "image_id": 2741900,
+    "file_name": "demo_images/999229f2-c0f0-4d6d-994b-30165e11a6b1.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Brown Recluse",
+        "scientific_name": "Loxosceles reclusa"
+      },
+      {
+        "common_name": "Pacific Spiketail",
+        "scientific_name": "Cordulegaster dorsalis"
+      },
+      {
+        "common_name": "mustang grape",
+        "scientific_name": "Vitis mustangensis"
+      },
+      {
+        "common_name": "Hornbeam",
+        "scientific_name": "Carpinus betulus"
+      },
+      {
+        "common_name": "Hobomok Skipper",
+        "scientific_name": "Lon hobomok"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Loxosceles reclusa"
+  },
+  {
+    "image_id": 2710046,
+    "file_name": "demo_images/9b4097e6-6748-4cfe-81d1-b649cd27f333.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Arrowhead Orbweaver",
+        "scientific_name": "Verrucosa arenata"
+      },
+      {
+        "common_name": "Arabesque Orbweaver",
+        "scientific_name": "Neoscona arabesca"
+      },
+      {
+        "common_name": "Common Garden Orbweb Spinner",
+        "scientific_name": "Argiope australis"
+      },
+      {
+        "common_name": "Silver-sided Sector Spider",
+        "scientific_name": "Zygiella x-notata"
+      },
+      {
+        "common_name": "Australian Jewel Spider",
+        "scientific_name": "Austracantha minax"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Zygiella x-notata"
+  },
+  {
+    "image_id": 2748866,
+    "file_name": "demo_images/7dd8340b-3f00-4ee3-9aa4-56b4874bd72a.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Striped Fishing Spider",
+        "scientific_name": "Dolomedes scriptus"
+      },
+      {
+        "common_name": "Dark Fishing Spider",
+        "scientific_name": "Dolomedes tenebrosus"
+      },
+      {
+        "common_name": "Whitebanded Fishing Spider",
+        "scientific_name": "Dolomedes albineus"
+      },
+      {
+        "common_name": "Nurseryweb Spider",
+        "scientific_name": "Dolomedes minor"
+      },
+      {
+        "common_name": "Six-spotted Fishing Spider",
+        "scientific_name": "Dolomedes triton"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Dolomedes scriptus"
+  },
+  {
+    "image_id": 2715743,
+    "file_name": "demo_images/bb1028ed-7be9-4aa1-b3c2-d20dfb18349f.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Flower Spider",
+        "scientific_name": "Thomisus onustus"
+      },
+      {
+        "common_name": "Goldenrod Crab Spider",
+        "scientific_name": "Misumena vatia"
+      },
+      {
+        "common_name": "Trapezoid Crab Spider",
+        "scientific_name": "Sidymella trapezia"
+      },
+      {
+        "common_name": "Napoleon Spider",
+        "scientific_name": "Synema globosum"
+      },
+      {
+        "common_name": "white-banded crab spider",
+        "scientific_name": "Misumenoides formosipes"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Synema globosum"
+  },
+  {
+    "image_id": 2695187,
+    "file_name": "demo_images/8b04309b-8191-415a-929f-dade787b33af.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Western Black Widow",
+        "scientific_name": "Latrodectus hesperus"
+      },
+      {
+        "common_name": "Redback Spider",
+        "scientific_name": "Latrodectus hasselti"
+      },
+      {
+        "common_name": "Katip\u014d",
+        "scientific_name": "Latrodectus katipo"
+      },
+      {
+        "common_name": "Northern Black Widow",
+        "scientific_name": "Latrodectus variolus"
+      },
+      {
+        "common_name": "Brown Widow",
+        "scientific_name": "Latrodectus geometricus"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Latrodectus variolus"
+  },
+  {
+    "image_id": 2752165,
+    "file_name": "demo_images/41ca8fca-17bf-45fd-ad35-93e360ada78f.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Cricket-bat Orbweaver",
+        "scientific_name": "Mangora acalypha"
+      },
+      {
+        "common_name": "Gorse Orbweaver",
+        "scientific_name": "Agalenatea redii"
+      },
+      {
+        "common_name": "Garden Orbweb Spider",
+        "scientific_name": "Eriophora pustulosa"
+      },
+      {
+        "common_name": "Four-spot Orbweaver",
+        "scientific_name": "Araneus quadratus"
+      },
+      {
+        "common_name": "Jor\u014d Spider",
+        "scientific_name": "Trichonephila clavata"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Mangora acalypha"
+  },
+  {
+    "image_id": 2738106,
+    "file_name": "demo_images/fb5ff698-3c78-431f-9199-1a7b39bd111c.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Stripe-tailed Scorpion",
+        "scientific_name": "Paravaejovis spinigerus"
+      },
+      {
+        "common_name": "Southern Devil Scorpion",
+        "scientific_name": "Vaejovis carolinianus"
+      },
+      {
+        "common_name": "Paravaejovis puritanus",
+        "scientific_name": "Paravaejovis puritanus"
+      },
+      {
+        "common_name": "California common scorpion",
+        "scientific_name": "Paruroctonus silvestrii"
+      },
+      {
+        "common_name": "Western Forest Scorpion",
+        "scientific_name": "Uroctonus mordax"
+      }
+    ],
+    "answer_index": 0,
+    "correct_scientific": "Paravaejovis spinigerus"
+  },
+  {
+    "image_id": 2770254,
+    "file_name": "demo_images/48fea98e-3e68-4b3e-a466-6a19908648f5.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "spreading phlox",
+        "scientific_name": "Phlox diffusa"
+      },
+      {
+        "common_name": "Mediterranean Spiny False Wolf Spider",
+        "scientific_name": "Zoropsis spinimana"
+      },
+      {
+        "common_name": "Mantled Howler Monkey",
+        "scientific_name": "Alouatta palliata"
+      },
+      {
+        "common_name": "Rio Grande copper lily",
+        "scientific_name": "Habranthus tubispathus"
+      },
+      {
+        "common_name": "ironwood",
+        "scientific_name": "Olneya tesota"
+      }
+    ],
+    "answer_index": 1,
+    "correct_scientific": "Zoropsis spinimana"
+  },
+  {
+    "image_id": 2692666,
+    "file_name": "demo_images/85a1c5b9-ba2d-4c2f-8cd2-c286da0a0366.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Brown House Spider",
+        "scientific_name": "Steatoda capensis"
+      },
+      {
+        "common_name": "Redback Spider",
+        "scientific_name": "Latrodectus hasselti"
+      },
+      {
+        "common_name": "Katip\u014d",
+        "scientific_name": "Latrodectus katipo"
+      },
+      {
+        "common_name": "Triangulate Comb-foot",
+        "scientific_name": "Steatoda triangulosa"
+      },
+      {
+        "common_name": "Southern Black Widow",
+        "scientific_name": "Latrodectus mactans"
+      }
+    ],
+    "answer_index": 3,
+    "correct_scientific": "Steatoda triangulosa"
+  },
+  {
+    "image_id": 2694034,
+    "file_name": "demo_images/0423806a-c62c-439e-9636-7f3d548fafbd.jpg",
+    "supercategory": "Arachnids",
+    "options": [
+      {
+        "common_name": "Striped Fishing Spider",
+        "scientific_name": "Dolomedes scriptus"
+      },
+      {
+        "common_name": "Six-spotted Fishing Spider",
+        "scientific_name": "Dolomedes triton"
+      },
+      {
+        "common_name": "Whitebanded Fishing Spider",
+        "scientific_name": "Dolomedes albineus"
+      },
+      {
+        "common_name": "Nurseryweb Spider",
+        "scientific_name": "Dolomedes minor"
+      },
+      {
+        "common_name": "Dark Fishing Spider",
+        "scientific_name": "Dolomedes tenebrosus"
+      }
+    ],
+    "answer_index": 4,
+    "correct_scientific": "Dolomedes tenebrosus"
+  }
+]

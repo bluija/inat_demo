@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>iNat2021 Adviser Demo</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #27ae60;
+            --bg: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--primary);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #app {
+            max-width: 1000px;
+            width: 95%;
+            margin-top: 40px;
+        }
+
+        /* Dashboard Styling */
+        .dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .category-card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .category-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-5px);
+        }
+
+        .category-card h3 {
+            margin: 10px 0;
+            text-transform: capitalize;
+        }
+
+        .category-card span {
+            font-size: 0.8em;
+            color: #7f8c8d;
+        }
+
+        /* Trial Styling */
+        #trial-view {
+            display: none;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .layout {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+
+        .img-box img {
+            width: 100%;
+            border-radius: 10px;
+            object-fit: cover;
+            aspect-ratio: 4/3;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .opt-btn {
+            padding: 18px;
+            border: 2px solid #edeff0;
+            border-radius: 10px;
+            background: none;
+            cursor: pointer;
+            text-align: left;
+            transition: 0.2s;
+        }
+
+        .opt-btn:hover:not(:disabled) {
+            background: #f0fdf4;
+            border-color: var(--accent);
+        }
+
+        .correct {
+            background: #dcfce7 !important;
+            border-color: #22c55e !important;
+            color: #166534;
+        }
+
+        .wrong {
+            background: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #991b1b;
+        }
+
+        .nav {
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .back-btn {
+            background: none;
+            border: none;
+            color: var(--accent);
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .badge {
+            background: var(--primary);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <div id="dashboard-view">
+        <h1 style="text-align: center;">iNat2021 Evaluation Dashboard</h1>
+        <p style="text-align: center; color: #666; margin-bottom: 40px;">Select a supercategory to start a 5-image
+            evaluation session.</p>
+        <div id="category-grid" class="dashboard"></div>
+    </div>
+
+    <div id="trial-view">
+        <div class="nav">
+            <button class="back-btn" onclick="showDashboard()">← Back to Categories</button>
+            <div id="progress-badge" class="badge">Trial 1 / 5</div>
+        </div>
+        <div class="layout">
+            <div class="img-box"><img id="display-img" src=""></div>
+            <div class="options" id="options-list"></div>
+        </div>
+        <div id="feedback" style="margin-top: 20px; text-align: center; font-weight: bold;"></div>
+        <button id="next-btn"
+                style="display:none; width:100%; margin-top:20px; padding:15px; background:var(--primary); color:white; border:none; border-radius:8px; cursor:pointer;"
+                onclick="nextStep()">Next Image
+        </button>
+    </div>
+</div>
+
+<script>
+    let allData = [];
+    let currentPool = [];
+    let currentIdx = 0;
+    let score = 0;
+
+    // Load Data
+    fetch('demo_data.json')
+        .then(r => r.json())
+        .then(data => {
+            allData = data;
+            renderDashboard();
+        });
+
+    function renderDashboard() {
+        const grid = document.getElementById('category-grid');
+        const cats = [...new Set(allData.map(item => item.supercategory))];
+        grid.innerHTML = cats.map(cat => {
+            const count = allData.filter(i => i.supercategory === cat).length;
+            return `
+                <div class="category-card" onclick="startSession('${cat}')">
+                    <h3>${cat}</h3>
+                    <span>${count} Available Images</span>
+                </div>
+            `;
+        }).join('');
+    }
+
+    function startSession(cat) {
+        const pool = allData.filter(i => i.supercategory === cat);
+        currentPool = pool.sort(() => 0.5 - Math.random()).slice(0, 5);
+        currentIdx = 0;
+        score = 0;
+
+        document.getElementById('dashboard-view').style.display = 'none';
+        document.getElementById('trial-view').style.display = 'block';
+        loadTrial();
+    }
+
+    function loadTrial() {
+        const item = currentPool[currentIdx];
+        document.getElementById('progress-badge').innerText = `Trial ${currentIdx + 1} / 5 | Score: ${score}`;
+        document.getElementById('display-img').src = item.file_name;
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('feedback').innerText = '';
+
+        const list = document.getElementById('options-list');
+        list.innerHTML = '';
+
+        item.options.forEach((opt, i) => {
+            const btn = document.createElement('button');
+            btn.className = 'opt-btn';
+            btn.innerHTML = `<strong>${opt.common_name}</strong><br><small><i>${opt.scientific_name}</i></small>`;
+            btn.onclick = () => handleSelect(i, item.answer_index, btn);
+            list.appendChild(btn);
+        });
+    }
+
+    function handleSelect(selected, correct, btn) {
+        const buttons = document.querySelectorAll('.opt-btn');
+        buttons.forEach(b => b.disabled = true);
+
+        if (selected === correct) {
+            btn.classList.add('correct');
+            score++;
+            document.getElementById('feedback').innerText = "Correct! Well spotted.";
+        } else {
+            btn.classList.add('wrong');
+            buttons[correct].classList.add('correct');
+            document.getElementById('feedback').innerText = "Incorrect. See the highlighted species.";
+        }
+        document.getElementById('next-btn').style.display = 'block';
+    }
+
+    function nextStep() {
+        currentIdx++;
+        if (currentIdx < 5) {
+            loadTrial();
+        } else {
+            alert(`Session Complete! Final Score: ${score}/5`);
+            showDashboard();
+        }
+    }
+
+    function showDashboard() {
+        document.getElementById('dashboard-view').style.display = 'block';
+        document.getElementById('trial-view').style.display = 'none';
+    }
+</script>
+</body>
+</html>

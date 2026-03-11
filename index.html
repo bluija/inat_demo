@@ -217,7 +217,8 @@
         item.options.forEach((opt, i) => {
             const btn = document.createElement('button');
             btn.className = 'opt-btn';
-            btn.innerHTML = `<strong>${opt.common_name}</strong><br><small><i>${opt.scientific_name}</i></small>`;
+            // btn.innerHTML = `<strong>${opt.common_name}</strong><br><small><i>${opt.scientific_name}</i></small>`;
+            btn.innerHTML = `<small><i>${opt.scientific_name}</i></small>`;
             btn.onclick = () => handleSelect(i, item.answer_index, btn);
             list.appendChild(btn);
         });
@@ -234,7 +235,7 @@
         } else {
             btn.classList.add('wrong');
             buttons[correct].classList.add('correct');
-            document.getElementById('feedback').innerText = "Incorrect. See the highlighted species.";
+            document.getElementById('feedback').innerText = "Incorrect. Try harder.";
         }
         document.getElementById('next-btn').style.display = 'block';
     }
